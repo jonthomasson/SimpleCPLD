@@ -1,0 +1,27 @@
+|block1
+clock => q[0].CLK
+clock => q[1].CLK
+clock => q[2].CLK
+clock => q[3].CLK
+clock => q[4].CLK
+clock => q[5].CLK
+clock => q[6].CLK
+clock => q[7].CLK
+clock => q[8].CLK
+clock => q[9].CLK
+clock => q[10].CLK
+clock => q[11].CLK
+clock => q[12].CLK
+clock => q[13].CLK
+clock => q[14].CLK
+clock => q[15].CLK
+IO11 <= q[9].DB_MAX_OUTPUT_PORT_TYPE
+IO12 <= q[8].DB_MAX_OUTPUT_PORT_TYPE
+IO2 <= q[15].DB_MAX_OUTPUT_PORT_TYPE
+IO3 <= q[14].DB_MAX_OUTPUT_PORT_TYPE
+IO5 <= q[13].DB_MAX_OUTPUT_PORT_TYPE
+IO6 <= q[12].DB_MAX_OUTPUT_PORT_TYPE
+IO8 <= q[11].DB_MAX_OUTPUT_PORT_TYPE
+IO10 <= q[10].DB_MAX_OUTPUT_PORT_TYPE
+
+

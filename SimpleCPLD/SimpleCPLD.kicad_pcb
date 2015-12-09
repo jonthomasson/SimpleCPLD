@@ -39,7 +39,7 @@
   )
 
   (setup
-    (last_trace_width 0.381)
+    (last_trace_width 0.25)
     (user_trace_width 0.254)
     (user_trace_width 0.381)
     (user_trace_width 0.635)
@@ -813,7 +813,7 @@
       (net 9 "Net-(TCO1-Pad1)"))
   )
 
-  (gr_text "Stache's Simple CPLD rev 1.a" (at 134.366 91.44) (layer B.SilkS)
+  (gr_text "Simple CPLD rev 1.a" (at 134.366 91.44) (layer B.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_line (start 110.871 97.536) (end 110.363 97.536) (angle 90) (layer Edge.Cuts) (width 0.15))
